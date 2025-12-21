@@ -79,4 +79,5 @@ body { /* Background and general focus */
 
 .login-btn:hover {
     opacity: 0.90;
+    color: #0d0d24;
 }
